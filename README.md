@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @hfarhanahmed
-- 👀 I’m interested in Android, React Native, Flutter and NPM packages
-- 🌱 I’m currently learning Flutter, Express.js and Typescript
-- 💞️ I’m looking to collaborate on Native Android and React Native
+- 👀 I’m interested in React Native, NestJS, Express and NPM packages
+- 💞️ I’m looking to collaborate on Nose.js/typescript and React Native projects
 - 📫 Reach me on twitter @hfarhanahmed
 
 <!---
